@@ -14,7 +14,7 @@ api = Api(app)
 # Kết nối cơ sở dữ liệu với backend
 app.config['MYSQL_DATABASE_USER'] = 'paoquvvjdq7t9syi'
 app.config['MYSQL_DATABASE_PASSWORD'] = 'bbfil4ptq4cg1qim'
-app.config['MYSQL_DATABASE_DB'] = 'quakrl4un16ywb4ycgsnly'
+app.config['MYSQL_DATABASE_DB'] = 'krl4un16ywb4ycgs'
 app.config['MYSQL_DATABASE_HOST'] = 'bmlx3df4ma7r1yh4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
 
 # Khởi tạo MySQL extension
